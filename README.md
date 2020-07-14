@@ -45,6 +45,7 @@
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
+- Google - https://cloud.google.com/products/ai
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
