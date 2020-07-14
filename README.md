@@ -40,6 +40,11 @@
 ### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
+### AI RESEARCH AT BIG COMPANIES:
+- Machine Learning at Apple - https://machinelearning.apple.com/
+
+### DEVELOPER RESOURCES:
+- Apple - https://developer.apple.com/machine-learning/
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
