@@ -29,7 +29,8 @@
 ### FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 
-
+### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES
+- CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
 
 
