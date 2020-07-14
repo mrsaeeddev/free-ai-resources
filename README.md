@@ -33,4 +33,6 @@
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
 
-
+# CONTRIBUTION GUIDELINES:
+Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
+If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
