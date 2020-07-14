@@ -18,6 +18,9 @@
 - Coursera’s Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
 - Machine Learning Crash Course by Google - https://developers.google.com/machine-learning/crash-course
 
+### FREE DATA SCIENCE COURSES:
+- IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
+
 ### FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
