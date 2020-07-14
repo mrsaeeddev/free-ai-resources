@@ -42,6 +42,7 @@
 
 ### AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
+- AI at Uber - https://www.uber.com/us/en/uberai/
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
