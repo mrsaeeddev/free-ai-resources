@@ -1,3 +1,11 @@
+<h4 align="center">
+    <a href="https://github.com/mrsaeeddev/free-ai-resources">
+        <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo.png">
+    </a>
+
+<br/>
+<br/>
+
 # FREE AI RESOURCES
 
 ### FREE AI COURSES:
