@@ -43,6 +43,7 @@
 ### AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
 - AI at Uber - https://www.uber.com/us/en/uberai/
+- Machine Learning at Careem - https://blog.careem.com/en/tag/machine-learning/
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
