@@ -45,6 +45,11 @@
 - AI at Uber - https://www.uber.com/us/en/uberai/
 - Machine Learning at Careem - https://blog.careem.com/en/tag/machine-learning/
 - Data Science at Grab - https://engineering.grab.com/categories/data-science/
+- Autopilot AI at Tesla - https://www.tesla.com/autopilotAI
+- AI at Microsoft - https://www.microsoft.com/en-us/ai
+- AI Research at Google - https://ai.google/research/
+- Self Driving Car Research at Lyft - https://medium.com/lyftlevel5
+- AI Research at Huawei - https://www.huawei.com/en/industry-insights/technology/ai
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
