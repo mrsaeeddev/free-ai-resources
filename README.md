@@ -55,6 +55,7 @@
 - AI at Alibaba - https://damo.alibaba.com/labs/ai
 - Data Science at Gojek - https://blog.gojekengineering.com/data-science/home 
 - Intelligent Transportation Technology and Security at Didi Chuxing - http://www.didi-labs.com/
+- Amazon Science - https://www.amazon.science/
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
