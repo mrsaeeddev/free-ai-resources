@@ -2,7 +2,7 @@
     <a href="https://github.com/mrsaeeddev/free-ai-resources">
         <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo.png">
     </a>
-    <h1>FREE AI RESOURCES</h1>
+    <h1 align="center">FREE AI RESOURCES</h1>
 </h4>
 <br/>
 <br/>
