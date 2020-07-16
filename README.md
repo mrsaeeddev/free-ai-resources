@@ -62,3 +62,5 @@
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
+
+### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
