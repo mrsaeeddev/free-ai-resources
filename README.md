@@ -56,6 +56,7 @@
 - Data Science at Gojek - https://blog.gojekengineering.com/data-science/home 
 - Intelligent Transportation Technology and Security at Didi Chuxing - http://www.didi-labs.com/
 - Amazon Science - https://www.amazon.science/
+- Data Science at Bolt - https://medium.com/@boltapp
 
 ### DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
