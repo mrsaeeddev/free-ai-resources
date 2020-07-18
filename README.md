@@ -62,6 +62,14 @@
 - Apple - https://developer.apple.com/machine-learning/
 - Google - https://cloud.google.com/products/ai
 
+### YOUTUBE CHANNELS
+- The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
+- The Allen Institute for Artificial Intelligence - https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos
+- DeepMind - https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos
+- Applied AI Course - https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ/videos
+- StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
+
+
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
