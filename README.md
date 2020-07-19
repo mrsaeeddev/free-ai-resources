@@ -68,6 +68,7 @@
 - DeepMind - https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos
 - Applied AI Course - https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ/videos
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
+- Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 
 
 # CONTRIBUTION GUIDELINES:
