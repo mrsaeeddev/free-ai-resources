@@ -1,12 +1,11 @@
-<h4 align="center">
+<h1 align="center">
     <a href="https://github.com/mrsaeeddev/free-ai-resources">
         <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo.png">
     </a>
     <br/>
     <br/>
-    <h1 align="center">FREE AI RESOURCES</h1>
-<center>   
-
+  FREE AI RESOURCES
+    
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources)
 ![GitHub contributors](https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources)
@@ -14,8 +13,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social)
 
-</center>
-</h4>
+</h1>
 <br/>
 <br/>
 
