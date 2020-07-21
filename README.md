@@ -5,9 +5,20 @@
     <br/>
     <br/>
     <h1 align="center">FREE AI RESOURCES</h1>
+<center>   
+
+![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources)
+![GitHub contributors](https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources)
+![GitHub](https://img.shields.io/github/license/mrsaeeddev/free-ai-resources)
+![Twitter Follow](https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social)
+
+</center>
 </h4>
 <br/>
 <br/>
+
 
 ### FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
@@ -76,4 +87,4 @@
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
 
-### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
+##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
