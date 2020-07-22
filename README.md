@@ -6,6 +6,8 @@
     <br/>
   FREE AI RESOURCES
     
+------------
+
   <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.png">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
