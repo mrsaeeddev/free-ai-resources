@@ -4,9 +4,6 @@
     </a>
     <br/>
     <br/>
-  FREE AI RESOURCES
-    
-------------
 
   <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.png">
 
