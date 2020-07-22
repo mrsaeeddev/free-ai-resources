@@ -6,6 +6,8 @@
     <br/>
   FREE AI RESOURCES
     
+  <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.png">
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources)
 ![GitHub contributors](https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources)
@@ -86,3 +88,5 @@ Feel free to open a PR if you feel like something needs to be added or may be yo
 If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
 
 ##### 🌟 Please star the repo so that it gets maximum exposure and more people can benefit from it!
+
+*Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.*
