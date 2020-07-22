@@ -5,7 +5,7 @@
     <br/>
     <br/>
 
-  <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.png">
+  <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.jpg">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources)
