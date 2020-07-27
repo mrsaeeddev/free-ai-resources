@@ -25,6 +25,7 @@
 - Artificial Intelligence: Principles and Techniques By Stanford - http://web.stanford.edu/class/cs221/
 - Udacity’s Artificial Intelligence for Robotics by Georgia Tech - https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
+- Elements of AI - https://www.elementsofai.com/
 
 ### FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
