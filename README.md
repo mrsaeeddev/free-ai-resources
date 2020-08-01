@@ -61,7 +61,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 ### FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 
-### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES
+### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
 ### AI RESEARCH AT BIG COMPANIES:
@@ -85,7 +85,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Apple - https://developer.apple.com/machine-learning/
 - Google - https://cloud.google.com/products/ai
 
-### YOUTUBE CHANNELS
+### YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
 - The Allen Institute for Artificial Intelligence - https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos
 - DeepMind - https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos
@@ -95,7 +95,11 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 ### AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
-- 
+
+### AI BLOGS:
+- Towards Data Science: https://towardsdatascience.com/
+- Towards Machine Learning: https://towardsml.com/
+- Towards AI: https://medium.com/towards-artificial-intelligence
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
