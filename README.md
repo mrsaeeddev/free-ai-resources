@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/mrsaeeddev/free-ai-resources">
-        <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo_new.png">
+        <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo.png">
     </a>
     <br/>
     <br/>
