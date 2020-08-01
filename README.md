@@ -93,6 +93,9 @@ Even if your profession is not directly related to tech, still it's said that AI
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 
+### AI JOB SITES:
+- DataYoshi - https://www.datayoshi.com/
+- 
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
