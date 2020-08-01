@@ -20,9 +20,13 @@
 
 > A curated list of FREE AI RESOURCES for aspiring AI Engineers
 
+### WHAT IS AI?
+
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
 ### WHY CHOOSE AI?
 
-Artificial Intelligence is the emerging field and it's advancing by leaps and bounds. Recent research in the fields of Data Science, Machine Learning, Natural Language Processing and other sub fields of AI has already started to impact the lives of people. AI is no more a superficial concept. It's already used by tech giants, companies and startups to solve everyday problems. That's why choosing AI as a career path is really rewarding in the long run.
+Artificial Intelligen is advancing by leaps and bounds. Recent research in the fields of Data Science, Machine Learning, Natural Language Processing and other sub fields of AI has already started to impact the lives of people. AI is no more a superficial concept. It's already used by tech giants, companies and startups to solve everyday problems. That's why choosing AI as a career path is really rewarding in the long run.
 
 Even if your profession is not directly related to tech, still it's said that AI will disrupt every field in one or other ways. That's why you need to have at least a basic understanding of how AI works.
 
