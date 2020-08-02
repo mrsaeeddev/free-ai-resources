@@ -1,4 +1,4 @@
-<h1 align="center">
+<div align="center">
     <a href="https://github.com/mrsaeeddev/free-ai-resources">
         <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/logo.png">
     </a>
@@ -13,8 +13,10 @@
 <img src="https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources" alt="Contributors Badge"/>
 <img src="https://img.shields.io/github/license/mrsaeeddev/free-ai-resources" alt="License Badge"/>
 <img src="https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social" alt="Stars Badge"/>
+
+> A curated list of FREE AI RESOURCES for aspiring AI Engineers
+
 <hr />
-<div><i>Follow me</i></div>
 <a href="http://saeed.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <a href="https://twitter.com/mrsaeeddev">
 <img src="https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social" alt="Twitter Badge"/>
@@ -25,10 +27,7 @@
 <a href="https://github.com/mrsaeeddev">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mrsaeeddev?label=Follow&style=social"/></a>
 </div>
-</h1>
-
-
-> A curated list of FREE AI RESOURCES for aspiring AI Engineers
+</div>
 
 <br/>
 
