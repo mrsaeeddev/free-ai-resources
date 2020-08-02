@@ -5,20 +5,32 @@
     <br/>
     <br/>
 
-  <img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.jpg">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources)
-![GitHub contributors](https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources)
-![GitHub](https://img.shields.io/github/license/mrsaeeddev/free-ai-resources)
-![Twitter Follow](https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social)
-
+<img src="https://raw.githubusercontent.com/mrsaeeddev/free-ai-resources/master/companies.jpg">
+<div align="center">
+<img src="https://img.shields.io/github/last-commit/mrsaeeddev/free-ai-resources" alt="Last Commit Badge"/>
+<img src="https://img.shields.io/github/commit-activity/w/mrsaeeddev/free-ai-resources" alt="Commit Activity Badge"/>
+<img src="https://img.shields.io/github/contributors/mrsaeeddev/free-ai-resources" alt="Contributors Badge"/>
+<img src="https://img.shields.io/github/license/mrsaeeddev/free-ai-resources" alt="License Badge"/>
+<img src="https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social" alt="Stars Badge"/>
+<hr />
+<div><i>Follow me</i></div>
+<a href="http://saeed.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="https://twitter.com/mrsaeedddev">
+<img src="https://img.shields.io/twitter/follow/mrsaeeddev?label=Follow&style=social" alt="Twitter Badge"/>
+</a>
+<a href="https://linkedin.com/in/mrsaeeddev">
+<img src="https://camo.githubusercontent.com/406fa0f807a6e4126cf965cf201f6197861d49e3/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f6c6162656c3d4c696e6b6564496e266c6f676f3d6c696e6b6564496e267374796c653d736f6369616c2675726c3d68747470732533412532462532467777772e6c696e6b6564696e2e636f6d253246696e253246716173696d2d68617373616e253246"/>
+</a>
+<a href="https://github.com/mrsaeedddev">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mrsaeeddev?label=Follow&style=social"/></a>
+</div>
 </h1>
-<br/>
-<br/>
+
 
 > A curated list of FREE AI RESOURCES for aspiring AI Engineers
+
+<br/>
 
 ### WHAT IS AI?
 
