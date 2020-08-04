@@ -108,6 +108,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - DataYoshi - https://www.datayoshi.com/
 - AI Jobs - https://aijobs.com/
 - AI-Jobs - https://ai-jobs.net/
+- Indeed - https://www.indeed.com/q-Artificial-Intelligence-jobs.html
 
 ### AI BLOGS:
 - Towards Data Science: https://towardsdatascience.com/
