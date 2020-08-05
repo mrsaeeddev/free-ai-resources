@@ -48,6 +48,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Udacity’s Artificial Intelligence for Robotics by Georgia Tech - https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
 - Elements of AI - https://www.elementsofai.com/
+- Intellipaat's Artificial Intelligence Course - https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/
 
 ### FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
