@@ -41,7 +41,7 @@ Artificial Intelligence is advancing by leaps and bounds. Recent research in the
 
 Even if your profession is not directly related to tech, still it's said that AI will disrupt every field in one or other ways. That's why you need to have at least a basic understanding of how AI works.
 
-### FREE AI COURSES:
+### 🤖 FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
 - Udacity’s Intro to Artificial Intelligence - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 - Artificial Intelligence: Principles and Techniques By Stanford - http://web.stanford.edu/class/cs221/
@@ -49,7 +49,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
 - Elements of AI - https://www.elementsofai.com/
 
-### FREE MACHINE LEARNING COURSES:
+### ⚙️ FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
 - Intro to ML by Udacity - https://www.udacity.com/course/intro-to-machine-learning--ud120
 - EdX’s Learning from Data(Introductory Machine Learning) - https://www.edx.org/course/learning-from-data-introductory-machine-learning#!
@@ -61,21 +61,21 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Coursera’s Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
 - Machine Learning Crash Course by Google - https://developers.google.com/machine-learning/crash-course
 
-### FREE DATA SCIENCE COURSES:
+### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
 
-### FREE DEEP LEARNING COURSES:
+### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
 
-### FREE NLP COURSES:
+### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 
-### FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
+### 👁️ FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
-### AI RESEARCH AT BIG COMPANIES:
+### 🔬 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
 - AI at Uber - https://www.uber.com/us/en/uberai/
 - Machine Learning at Careem - https://blog.careem.com/en/tag/machine-learning/
@@ -92,11 +92,11 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Amazon Science - https://www.amazon.science/
 - Data Science at Bolt - https://medium.com/@boltapp
 
-### DEVELOPER RESOURCES:
+### 💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
 - Google - https://cloud.google.com/products/ai
 
-### YOUTUBE CHANNELS:
+### 🎥 YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
 - The Allen Institute for Artificial Intelligence - https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos
 - DeepMind - https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos
@@ -104,14 +104,14 @@ Even if your profession is not directly related to tech, still it's said that AI
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 
-### AI JOB SITES:
+### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
 - AI Jobs - https://aijobs.com/
 - AI-Jobs - https://ai-jobs.net/
 - Indeed - https://www.indeed.com/q-Artificial-Intelligence-jobs.html
 - Kaggle Jobs - https://www.kaggle.com/jobs
 
-### AI BLOGS:
+### 📝 AI BLOGS:
 - Towards Data Science: https://towardsdatascience.com/
 - Towards Machine Learning: https://towardsml.com/
 - Towards AI: https://medium.com/towards-artificial-intelligence
