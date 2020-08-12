@@ -75,6 +75,18 @@ Even if your profession is not directly related to tech, still it's said that AI
 ### 👁️ FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
+### 🏆 DATA SCIENCE COMPETITION HOSTING PLATFORMS:
+- Kaggle - https://www.kaggle.com/
+- Analytics Vidhya - https://www.analyticsvidhya.com/
+- CrowdANALYTIX - https://www.crowdanalytix.com/community
+- Innocentive - https://www.innocentive.com/our-solvers/
+- CodaLab - https://competitions.codalab.org/
+- ZINDI - https://zindi.africa/about
+- AIcrowd - https://www.aicrowd.com/
+- Driven Data - https://www.drivendata.org/
+- Numerai - https://numer.ai/
+- Tianchi - https://tianchi.aliyun.com/competition/gameList/activeList
+
 ### 🔬 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
 - AI at Uber - https://www.uber.com/us/en/uberai/
