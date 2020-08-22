@@ -116,6 +116,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Applied AI Course - https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ/videos
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
+- Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
