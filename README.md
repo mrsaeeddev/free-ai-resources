@@ -89,6 +89,11 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Numerai - https://numer.ai/
 - Tianchi - https://tianchi.aliyun.com/competition/gameList/activeList
 
+### 📦 DATASET REPOSITORIES:
+- Data World - https://data.world/datasets/open-data
+- Dataset Search by Google - https://datasetsearch.research.google.com/
+- Kaggle Dataset - https://www.kaggle.com/datasets
+
 ### 🔬 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
 - AI at Uber - https://www.uber.com/us/en/uberai/
