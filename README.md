@@ -95,6 +95,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Kaggle Dataset - https://www.kaggle.com/datasets
 - UCI Machine Learning Repository - https://archive.ics.uci.edu/
 - Microsoft Open datasets - https://azure.microsoft.com/en-us/services/open-datasets/catalog/
+- UCR - http://timeseriesclassification.com/
 
 ### 🔬 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
