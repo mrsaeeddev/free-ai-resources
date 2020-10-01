@@ -145,6 +145,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - AI Trends: https://www.aitrends.com/
 - DeepMind: https://deepmind.com/blog
 - Becoming HumanAI: https://becominghuman.ai
+- Berkeley Artificial Intelligence Research: https://bair.berkeley.edu/blog/
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
