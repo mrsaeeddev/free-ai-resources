@@ -154,6 +154,13 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Baidu Research: http://research.baidu.com/
 - Algorithmia: https://algorithmia.com/blog
 
+### AI CHEAT-SHEETS:
+- Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
+- Stanford CS229 Machine Learning: https://github.com/afshinea/stanford-cs-229-machine-learning
+- Stanford CS230 Deep Learning: https://github.com/afshinea/stanford-cs-230-deep-learning
+- Stanford CS221 Artificial Intelligence: https://github.com/afshinea/stanford-cs-221-artificial-intelligence
+- Collection of AI Cheat-Sheets: http://www.aicheatsheets.com/
+
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: **added <resource_name> to <section_name>**
