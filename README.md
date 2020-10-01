@@ -149,6 +149,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - IBM Developer: https://developer.ibm.com/patterns/category/artificial-intelligence/
 - OpenAI: https://openai.com/
 - MIT News: https://news.mit.edu/topic/artificial-intelligence2
+- Baidu Research: http://research.baidu.com/
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
