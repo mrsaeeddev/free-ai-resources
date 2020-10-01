@@ -93,6 +93,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Data World - https://data.world/datasets/open-data
 - Dataset Search by Google - https://datasetsearch.research.google.com/
 - Kaggle Dataset - https://www.kaggle.com/datasets
+- UCI Machine Learning Repository - https://archive.ics.uci.edu/
+
 
 ### 🔬 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
