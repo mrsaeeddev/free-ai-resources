@@ -141,6 +141,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Towards Machine Learning: https://towardsml.com/
 - Towards AI: https://medium.com/towards-artificial-intelligence
 - Fritz AI: https://heartbeat.fritz.ai/
+- The Batch: https://www.deeplearning.ai/thebatch/
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
