@@ -143,6 +143,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Fritz AI: https://heartbeat.fritz.ai/
 - The Batch: https://www.deeplearning.ai/thebatch/
 - AI Trends: https://www.aitrends.com/
+- DeepMind: https://deepmind.com/blog
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
