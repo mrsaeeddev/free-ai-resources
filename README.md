@@ -49,6 +49,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
 - Elements of AI - https://www.elementsofai.com/
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
+- EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 
 ### ⚙️ FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
