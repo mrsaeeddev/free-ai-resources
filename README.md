@@ -135,12 +135,31 @@ Even if your profession is not directly related to tech, still it's said that AI
 - AI-Jobs - https://ai-jobs.net/
 - Indeed - https://www.indeed.com/q-Artificial-Intelligence-jobs.html
 - Kaggle Jobs - https://www.kaggle.com/jobs
+- Remote AI/ML Jobs: https://www.remoteaijobs.com/
+- AI Jobs Board: https://aijobsboard.com/
 
 ### 📝 AI BLOGS:
 - Towards Data Science: https://towardsdatascience.com/
 - Towards Machine Learning: https://towardsml.com/
 - Towards AI: https://medium.com/towards-artificial-intelligence
 - Fritz AI: https://heartbeat.fritz.ai/
+- The Batch: https://www.deeplearning.ai/thebatch/
+- AI Trends: https://www.aitrends.com/
+- DeepMind: https://deepmind.com/blog
+- Becoming HumanAI: https://becominghuman.ai
+- Berkeley Artificial Intelligence Research: https://bair.berkeley.edu/blog/
+- IBM Developer: https://developer.ibm.com/patterns/category/artificial-intelligence/
+- OpenAI: https://openai.com/
+- MIT News: https://news.mit.edu/topic/artificial-intelligence2
+- Baidu Research: http://research.baidu.com/
+- Algorithmia: https://algorithmia.com/blog
+
+### AI CHEAT-SHEETS:
+- Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
+- Stanford CS229 Machine Learning: https://github.com/afshinea/stanford-cs-229-machine-learning
+- Stanford CS230 Deep Learning: https://github.com/afshinea/stanford-cs-230-deep-learning
+- Stanford CS221 Artificial Intelligence: https://github.com/afshinea/stanford-cs-221-artificial-intelligence
+- Collection of AI Cheat-Sheets: http://www.aicheatsheets.com/
 
 # CONTRIBUTION GUIDELINES:
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
