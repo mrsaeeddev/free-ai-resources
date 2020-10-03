@@ -74,6 +74,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 ### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
+- Natural Language Processing Specialization by Deeplearning.ai - https://www.coursera.org/specializations/natural-language-processing
 
 ### 👁️ FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
