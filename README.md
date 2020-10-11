@@ -90,6 +90,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Driven Data - https://www.drivendata.org/
 - Numerai - https://numer.ai/
 - Tianchi - https://tianchi.aliyun.com/competition/gameList/activeList
+- Omdena - https://omdena.com/
 
 ### 📦 DATASET REPOSITORIES:
 - Data World - https://data.world/datasets/open-data
