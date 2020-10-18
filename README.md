@@ -50,6 +50,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Elements of AI - https://www.elementsofai.com/
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
+- Microsoft AI School - https://aischool.microsoft.com/en-us/home
 
 ### ⚙️ FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
@@ -118,10 +119,12 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Intelligent Transportation Technology and Security at Didi Chuxing - http://www.didi-labs.com/
 - Amazon Science - https://www.amazon.science/
 - Data Science at Bolt - https://medium.com/@boltapp
+- Industrial AI Research at Hitachi - https://www.hitachi.com/rd/sc/aiblog/index.html
 
 ### 💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
 - Google - https://cloud.google.com/products/ai
+- Microsoft - https://docs.microsoft.com/en-us/ai/
 
 ### 🎥 YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
@@ -131,6 +134,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 - Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
+- Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
