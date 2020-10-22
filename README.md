@@ -92,6 +92,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Numerai - https://numer.ai/
 - Tianchi - https://tianchi.aliyun.com/competition/gameList/activeList
 - Omdena - https://omdena.com/
+- HackerEarth -https://www.hackerearth.com/hackathon/explore/field/machine-learning/
 
 ### 📦 DATASET REPOSITORIES:
 - Data World - https://data.world/datasets/open-data
