@@ -64,6 +64,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Coursera’s Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
 - Machine Learning Crash Course by Google - https://developers.google.com/machine-learning/crash-course
 - Machine Learning Course at W3Schools - https://www.w3schools.com/python/python_ml_getting_started.asp
+- Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
 
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
