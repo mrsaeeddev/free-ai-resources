@@ -67,6 +67,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
+- Udacity Intro to Data Science - https://www.udacity.com/course/intro-to-data-science--ud359
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
