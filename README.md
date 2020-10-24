@@ -136,6 +136,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 - Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
+- TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
