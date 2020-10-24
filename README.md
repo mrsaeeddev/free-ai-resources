@@ -50,6 +50,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Elements of AI - https://www.elementsofai.com/
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
+- Microsoft AI School - https://aischool.microsoft.com/en-us/home
 
 ### ⚙️ FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
@@ -63,6 +64,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Coursera’s Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
 - Machine Learning Crash Course by Google - https://developers.google.com/machine-learning/crash-course
 - Machine Learning Course at W3Schools - https://www.w3schools.com/python/python_ml_getting_started.asp
+- Intro to Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intro-to-machine-learning
+- Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
 
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
@@ -71,10 +74,12 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
+- Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
 
 ### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 - Natural Language Processing Specialization by Deeplearning.ai - https://www.coursera.org/specializations/natural-language-processing
+- Natural Language Processing Course at Kaggle - https://www.kaggle.com/learn/natural-language-processing
 
 ### 👁️ FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
@@ -91,6 +96,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Numerai - https://numer.ai/
 - Tianchi - https://tianchi.aliyun.com/competition/gameList/activeList
 - Omdena - https://omdena.com/
+- HackerEarth -https://www.hackerearth.com/hackathon/explore/field/machine-learning/
 
 ### 📦 DATASET REPOSITORIES:
 - Data World - https://data.world/datasets/open-data
@@ -118,10 +124,12 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Intelligent Transportation Technology and Security at Didi Chuxing - http://www.didi-labs.com/
 - Amazon Science - https://www.amazon.science/
 - Data Science at Bolt - https://medium.com/@boltapp
+- Industrial AI Research at Hitachi - https://www.hitachi.com/rd/sc/aiblog/index.html
 
 ### 💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
 - Google - https://cloud.google.com/products/ai
+- Microsoft - https://docs.microsoft.com/en-us/ai/
 
 ### 🎥 YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
@@ -131,6 +139,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 - StarCraft Artificial Intelligence Tournament - https://www.youtube.com/user/certicky/videos
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 - Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
+- Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
+- Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
@@ -156,6 +166,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - MIT News: https://news.mit.edu/topic/artificial-intelligence2
 - Baidu Research: http://research.baidu.com/
 - Algorithmia: https://algorithmia.com/blog
+- Machine Learning Mastery: https://machinelearningmastery.com/blog/
 
 ### AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
