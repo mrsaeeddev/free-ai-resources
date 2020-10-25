@@ -48,6 +48,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Udacity’s Artificial Intelligence for Robotics by Georgia Tech - https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
 - Elements of AI - https://www.elementsofai.com/
+- Building AI - https://buildingai.elementsofai.com/
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
