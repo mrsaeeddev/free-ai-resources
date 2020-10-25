@@ -53,7 +53,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
 - Learn with Google AI - https://ai.google/education/
 
-### ⚙️ FREE MATHEMATICS RESOURCES:
+### 🔢 FREE MATHEMATICS RESOURCES:
 #### Videos
 - All Levels/Pre-U - http://www.patrickjmt.com/
 - All Levels/Pre-U - http://www.khanacademy.org/
