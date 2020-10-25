@@ -53,7 +53,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
 - Learn with Google AI - https://ai.google/education/
 
-### ⚙️ FREE MATHEMATICS RESOURCES:
+### 🔢 FREE MATHEMATICS RESOURCES:
 #### Videos
 - All Levels/Pre-U - http://www.patrickjmt.com/
 - All Levels/Pre-U - http://www.khanacademy.org/
@@ -172,6 +172,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Coursera’s Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
 - Machine Learning Crash Course by Google - https://developers.google.com/machine-learning/crash-course
 - Machine Learning Course at W3Schools - https://www.w3schools.com/python/python_ml_getting_started.asp
+- Intro to Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intro-to-machine-learning
+- Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
 - Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
 
 ### 📈 FREE DATA SCIENCE COURSES:
@@ -182,10 +184,12 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
+- Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
 
 ### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 - Natural Language Processing Specialization by Deeplearning.ai - https://www.coursera.org/specializations/natural-language-processing
+- Natural Language Processing Course at Kaggle - https://www.kaggle.com/learn/natural-language-processing
 
 ### 👁️ FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
@@ -246,6 +250,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 - Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
+- Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 
 ### 💼 AI JOB SITES:
