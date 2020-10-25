@@ -51,6 +51,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
+- Learn with Google AI - https://ai.google/education/
 
 ### ⚙️ FREE MATHEMATICS RESOURCES:
 #### Videos
