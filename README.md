@@ -51,6 +51,114 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
+- Learn with Google AI - https://ai.google/education/
+
+### ⚙️ FREE MATHEMATICS RESOURCES:
+#### Videos
+- All Levels/Pre-U - http://www.patrickjmt.com/
+- All Levels/Pre-U - http://www.khanacademy.org/
+- College - http://ocw.mit.edu/OcwWeb/web/courses/courses/index.htm#Mathematics
+- College - https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg
+- College - https://www.youtube.com/channel/UC2F-j2KMho0zVWIPFKWoXoA/videos
+- College - https://www.youtube.com/channel/UC5Y9H2KDRHZZTWZJtlH4VbA
+- All - https://www.youtube.com/channel/UCNVMxRMEwvo9AS-Jfh6fQFg
+- College - http://www.youtube.com/user/njwildberger
+- College - https://www.youtube.com/user/MathDoctorBob
+- High-School/ College - https://www.youtube.com/channel/UCfbSz1B68ytEKX0D6AFdddQ
+- All Levels/ Pre-U - http://www.mathtv.com/
+- All Levels/Pre-U - https://www.youtube.com/user/profrobbob
+- All Levels/Pre-U - http://www.hippocampus.org/
+- GCSE Level - https://www.youtube.com/user/schoolmaths
+
+#### For Fun
+- 3Blue1Brown https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+- Mathologer https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg
+- MathologerII - https://www.youtube.com/channel/UCH74Hc_7WYVzx1GXhLEH6Eg
+- ViHart - https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg
+- MindYourDecisions - https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g
+- Tipping-Point-Math - https://www.youtube.com/channel/UCjwOWaOX-c-NeLnj_YGiNEg
+- WelchLabs - https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew
+- Infinite Series - https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g
+- Vsauce - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
+- Numberphile  https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
+- Blackpenredpen https://www.youtube.com/user/blackpenredpen
+
+#### Example problems and online notes/refrences
+- Example Problems - http://www.exampleproblems.com/
+- Interact math - http://www.interactmath.com/
+- Pauls online Math notes - http://tutorial.math.lamar.edu/
+- Calculus org -http://www.calculus.org/
+- Wolfram Mathworld - http://mathworld.wolfram.com/
+- CTY Online AP & College Math Resources - https://sites.google.com/a/ctyonline.net/jdinoto/
+- J.S. Milne's Site - http://www.jmilne.org/math/
+- History of Math - http://www-history.mcs.st-and.ac.uk/
+- Harvey Mudd College's Online Math Tutorials - http://www.math.hmc.edu/calculus/tutorials/
+- Real (and some complex) Analysis & Programming - http://www.mathcs.org/
+
+#### Computer Algebra Systems
+- SAGE - http://www.sagemath.org/index.html
+- Maxima - http://maxima.sourceforge.net/
+- Octave - http://www.gnu.org/software/octave
+- Wolfram Alpha- http://www.wolframalpha.com/
+- Geogebra - http://www.geogebra.org/cms
+- PARI/GP https://pari.math.u-bordeaux.fr/
+
+#### Graphics And Visualizing mathematics
+- GeoGebra - http://www.geogebra.org/cms
+- gnuplot - http://www.gnuplot.info/
+- garminder - http://www.gapminder.org/
+- Wolfram Demonstrations Project - http://demonstrations.wolfram.com/
+- wolframa - http://www.wolframalpha.com/
+- scipy- http://www.scipy.org/
+- Microsoft Mathematics*  - http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9caca722-5235-401c-8d3f-9e242b794c3a
+- Winplot - http://math.exeter.edu/rparris/winplot.html
+- Desmos - http://desmos.com/calculator/
+- Symbolab - http://www.symbolab.com/
+- Scilab - http://www.scilab.org/
+
+#### TypeSetting  (Latex)
+- TeX Users Group - http://www.tug.org/
+- The Comprehensive TeX Archive Network - http://www.ctan.org/
+- Art of Problem Solving Tutorial - http://www.artofproblemsolving.com/LaTeX/AoPS_L_About.php
+- TexPaste - http://www.texpaste.com/
+- Xfig - http://www.xfig.org/
+- Detextify - http://detexify.kirelabs.org/classify.html?
+- WriteLaTeX WYSIWYG - https://www.writelatex.com/
+- LaTeX Examples - http://www.texample.net/
+
+#### Blogs/Articles
+- Terry Tao - http://terrytao.wordpress.com/
+- American Mathematical Society - http://blogs.ams.org/blogonmathblogs/
+- AMS notices - http://www.ams.org/notices/
+- The n-Category Café - https://golem.ph.utexas.edu/category/
+- Tim Gowers - http://gowers.wordpress.com/
+- ADD/XOR/ROL - http://addxorrol.blogspot.com/
+- Math with Bad Drawings - https://mathwithbaddrawings.com/
+- Math ∩ Programming - https://jeremykun.com/
+- Almost Looks Like Work - https://jasmcole.com/
+- Math3ma - https://www.math3ma.com/
+- Qiaochu Yuan - https://qchu.wordpress.com/
+- Carlos Matheus - https://matheuscmss.wordpress.com/
+- Burt Totaro - https://burttotaro.wordpress.com/
+- Igor Pak - https://igorpak.wordpress.com/
+- Alex Youcis - https://ayoucis.wordpress.com/
+- Low dimensional topology - https://ldtopology.wordpress.com/
+- Jordan Ellenberg - https://quomodocumque.wordpress.com/
+- Secret Blogging Seminar - https://sbseminar.wordpress.com/
+- Math Wizurd - http://www.mathwizurd.com/calc
+
+#### Misc
+- academicearth.org - http://www.academicearth.org/subjects/mathematics
+- Encyclopedia of Mathematics - http://www.encyclopediaofmath.org/
+- Large List of Recommended books, online resources - http://hbpms.blogspot.com/
+- Online Encyclopedia of Integer Sequences - http://www.research.att.com/~njas/sequences/
+- MathIM - http://www.mathim.com/
+
+#### Other Lists of resources
+- Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
+
+
+
 
 ### ⚙️ FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
@@ -66,9 +174,11 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Machine Learning Course at W3Schools - https://www.w3schools.com/python/python_ml_getting_started.asp
 - Intro to Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intro-to-machine-learning
 - Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
+- Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
 
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
+- Udacity Intro to Data Science - https://www.udacity.com/course/intro-to-data-science--ud359
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
@@ -141,6 +251,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
 - Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
+- TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
