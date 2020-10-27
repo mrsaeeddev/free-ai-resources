@@ -185,6 +185,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
 - Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
+- Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
 
 ### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
