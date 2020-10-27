@@ -238,6 +238,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 ### 💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
+- Facebook - https://ai.facebook.com/tools/
 - Google - https://cloud.google.com/products/ai
 - Microsoft - https://docs.microsoft.com/en-us/ai/
 
