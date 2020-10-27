@@ -136,6 +136,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Sentdex - Data Analysis Tutorials - https://www.youtube.com/c/sentdex/videos
 - Amazon - Machine Learning University - https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
+- Krish Nayak - https://www.youtube.com/user/krishnaik06
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
@@ -162,6 +163,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Baidu Research: http://research.baidu.com/
 - Algorithmia: https://algorithmia.com/blog
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
+- Andrej Karpathy: http://karpathy.github.io/
 
 ### AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
