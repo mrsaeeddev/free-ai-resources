@@ -156,6 +156,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 #### Other Lists of resources
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
+- Top-down Learning Path on Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- Fun Learning Projects on Machine Learning for Beginners - https://elitedatascience.com/machine-learning-projects-for-beginners
 
 
 
@@ -179,6 +181,9 @@ Even if your profession is not directly related to tech, still it's said that AI
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
 - Udacity Intro to Data Science - https://www.udacity.com/course/intro-to-data-science--ud359
+- Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
+- Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
+- A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
