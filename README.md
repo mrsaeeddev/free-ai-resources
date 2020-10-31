@@ -263,6 +263,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
 - Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
+- End to End Machine Learing playlist - https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU
+- Statquest with Josh Starmer for Statistics, Ml, Dl - https://www.youtube.com/user/joshstarmer
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
@@ -289,7 +291,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Baidu Research: http://research.baidu.com/
 - Algorithmia: https://algorithmia.com/blog
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
-- Learn OpenCV: https://www.learnopencv.com/
+
 
 ### AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
