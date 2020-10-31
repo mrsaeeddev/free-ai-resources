@@ -53,6 +53,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
 - Learn with Google AI - https://ai.google/education/
+- Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
 ### 🔢 FREE MATHEMATICS RESOURCES:
 #### Videos
@@ -263,6 +264,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
 - Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
+- Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
