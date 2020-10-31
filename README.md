@@ -83,6 +83,8 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Vsauce - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 - Numberphile  https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
 - Blackpenredpen https://www.youtube.com/user/blackpenredpen
+- AI and Games youtube channel https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
+- A.I. and Machine Learning in Unity, Sebastian Schuchmann youtube channel https://www.youtube.com/c/SebastianSchuchmannAI
 
 #### Example problems and online notes/refrences
 - Example Problems - http://www.exampleproblems.com/
