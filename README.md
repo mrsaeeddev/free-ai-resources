@@ -158,6 +158,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Online Encyclopedia of Integer Sequences - http://www.research.att.com/~njas/sequences/
 - MathIM - http://www.mathim.com/
 - Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
+- Informational website on artificial intelligence - https://intelligencereborn.com
 
 #### Other Lists of resources
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
