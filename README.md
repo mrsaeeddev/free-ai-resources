@@ -54,6 +54,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
 - Learn with Google AI - https://ai.google/education/
 - Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
+- An Introduction to AI by the Higher Institute of Information and Communication Technologies(ISTIC) - https://drive.google.com/file/d/15EHE6FbsMK7KHQA4xZIKSyKgPnwV3dm4/view?usp=sharing
 
 ### 🔢 FREE MATHEMATICS RESOURCES:
 #### Videos
