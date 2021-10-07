@@ -190,6 +190,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
 - Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
 - A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
+- Data Science for beginners from freeCodeCamp - https://youtu.be/ua-CiDNNj30
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
@@ -197,6 +198,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Deep Learning from the Foundations - https://course.fast.ai/part2
 - Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
 - Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
+- Deep Learning (CS7015 - IIT Madras) - https://youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
 
 ### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
