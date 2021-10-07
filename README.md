@@ -253,6 +253,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Facebook - https://ai.facebook.com/tools/
 - Google - https://cloud.google.com/products/ai
 - Microsoft - https://docs.microsoft.com/en-us/ai/
+- Intel - https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html
 
 ### 🎥 YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
