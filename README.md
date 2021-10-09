@@ -293,6 +293,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Algorithmia: https://algorithmia.com/blog
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
 - Learn OpenCV: https://www.learnopencv.com/
+- Analytics Vidhya : https://www.analyticsvidhya.com/
 
 ### AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
