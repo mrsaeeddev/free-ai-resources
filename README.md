@@ -266,6 +266,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 - Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
+- Developer Ashish - ML/DL Tutorials - https://www.youtube.com/channel/UCX802rmp2Sg2ddyLU7Qo1bQ/videos
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
