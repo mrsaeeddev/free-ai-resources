@@ -169,20 +169,21 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 
 ### ⚙️ FREE MACHINE LEARNING COURSES:
-- Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
-- Intro to ML by Udacity - https://www.udacity.com/course/intro-to-machine-learning--ud120
-- EdX’s Learning from Data(Introductory Machine Learning) - https://www.edx.org/course/learning-from-data-introductory-machine-learning#!
-- Introduction to Machine Learning for Coders - http://course18.fast.ai/ml
-- Statistical Machine Learning by CMU - https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo
-- Coursera’s Neural Networks for Machine Learning - https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak
-- Kaggle Complete Roadmap for Machine Learning - https://www.kaggle.com/learn/overview
-- EdX’s Principles of Machine Learning - https://www.edx.org/course/principles-of-machine-learning
-- Coursera’s Machine Learning Specialization - https://www.coursera.org/specializations/machine-learning
-- Machine Learning Crash Course by Google - https://developers.google.com/machine-learning/crash-course
-- Machine Learning Course at W3Schools - https://www.w3schools.com/python/python_ml_getting_started.asp
-- Intro to Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intro-to-machine-learning
-- Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
-- Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
+- [Machine Learning by Andrew NG](https://www.coursera.org/learn/machine-learning)
+- [Intro to ML by Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [EdX’s Learning from Data(Introductory Machine Learning)](https://www.edx.org/course/learning-from-data-introductory-machine-learning#!)
+- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [Statistical Machine Learning by CMU](https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo)
+- [Coursera’s Neural Networks for Machine Learning](https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak)
+- [Kaggle Complete Roadmap for Machine Learning](https://www.kaggle.com/learn/overview)
+- [EdX’s Principles of Machine Learning](https://www.edx.org/course/principles-of-machine-learning)
+- [Coursera’s Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
+- [Machine Learning Course at W3Schools](https://www.w3schools.com/python/python_ml_getting_started.asp)
+- [Intro to Machine Learning Course at Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Intermediate Machine Learning Course at Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python)
+
 
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
