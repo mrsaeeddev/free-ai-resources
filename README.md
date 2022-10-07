@@ -164,6 +164,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
 - Top-down Learning Path on Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - Fun Learning Projects on Machine Learning for Beginners - https://elitedatascience.com/machine-learning-projects-for-beginners
+- Top Applications of Artificial Intelligence - https://www.interviewbit.com/blog/applications-of-artificial-intelligence 
 
 
 
