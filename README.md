@@ -289,6 +289,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - IBM Developer: https://developer.ibm.com/patterns/category/artificial-intelligence/
 - OpenAI: https://openai.com/
 - MIT News: https://news.mit.edu/topic/artificial-intelligence2
+- Difference Between AI and ML : https://www.scaler.com/topics/difference-between-artificial-intelligence-and-machine-learning/
 - Baidu Research: http://research.baidu.com/
 - Algorithmia: https://algorithmia.com/blog
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
