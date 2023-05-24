@@ -150,6 +150,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Jordan Ellenberg - https://quomodocumque.wordpress.com/
 - Secret Blogging Seminar - https://sbseminar.wordpress.com/
 - Math Wizurd - http://www.mathwizurd.com/calc
+- Ibrahim Sharaf - https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 #### Misc
 - academicearth.org - http://www.academicearth.org/subjects/mathematics
@@ -190,6 +191,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
 - Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
 - A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
+- Data Science Math Skills - https://www.coursera.org/learn/datasciencemathskills
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
