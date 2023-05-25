@@ -150,6 +150,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Jordan Ellenberg - https://quomodocumque.wordpress.com/
 - Secret Blogging Seminar - https://sbseminar.wordpress.com/
 - Math Wizurd - http://www.mathwizurd.com/calc
+- Heldenkombinat Technologies - https://medium.com/@heldenkombinat/getting-started-with-the-jetson-nano-37af65a07aab
 
 #### Misc
 - academicearth.org - http://www.academicearth.org/subjects/mathematics
