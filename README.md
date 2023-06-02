@@ -150,6 +150,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Jordan Ellenberg - https://quomodocumque.wordpress.com/
 - Secret Blogging Seminar - https://sbseminar.wordpress.com/
 - Math Wizurd - http://www.mathwizurd.com/calc
+- Face Detection with Haar Cascade - https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
 
 #### Misc
 - academicearth.org - http://www.academicearth.org/subjects/mathematics
