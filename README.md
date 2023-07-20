@@ -48,10 +48,12 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Udacity’s Artificial Intelligence for Robotics by Georgia Tech - https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
 - Elements of AI - https://www.elementsofai.com/
+- Building AI - https://buildingai.elementsofai.com/
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
 - Learn with Google AI - https://ai.google/education/
+- Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
 ### 🔢 FREE MATHEMATICS RESOURCES:
 #### Videos
@@ -82,6 +84,9 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Vsauce - https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 - Numberphile  https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
 - Blackpenredpen https://www.youtube.com/user/blackpenredpen
+- AI and Games youtube channel https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
+- A.I. and Machine Learning in Unity, Sebastian Schuchmann youtube channel https://www.youtube.com/c/SebastianSchuchmannAI
+- CNN Explainer - https://poloclub.github.io/cnn-explainer/
 
 #### Example problems and online notes/refrences
 - Example Problems - http://www.exampleproblems.com/
@@ -153,9 +158,13 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Large List of Recommended books, online resources - http://hbpms.blogspot.com/
 - Online Encyclopedia of Integer Sequences - http://www.research.att.com/~njas/sequences/
 - MathIM - http://www.mathim.com/
+- Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
+- Informational website on artificial intelligence - https://intelligencereborn.com
 
 #### Other Lists of resources
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
+- Top-down Learning Path on Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- Fun Learning Projects on Machine Learning for Beginners - https://elitedatascience.com/machine-learning-projects-for-beginners
 
 
 
@@ -179,12 +188,16 @@ Even if your profession is not directly related to tech, still it's said that AI
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
 - Udacity Intro to Data Science - https://www.udacity.com/course/intro-to-data-science--ud359
+- Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
+- Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
+- A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
 - Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
+- Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
 
 ### 🗣️ FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
@@ -238,6 +251,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 ### 💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
+- Facebook - https://ai.facebook.com/tools/
 - Google - https://cloud.google.com/products/ai
 - Microsoft - https://docs.microsoft.com/en-us/ai/
 
@@ -252,6 +266,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Microsoft Research - https://www.youtube.com/user/MicrosoftResearch
 - Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
+- Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
 
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
@@ -278,6 +293,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Baidu Research: http://research.baidu.com/
 - Algorithmia: https://algorithmia.com/blog
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
+- Learn OpenCV: https://www.learnopencv.com/
 
 ### AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
