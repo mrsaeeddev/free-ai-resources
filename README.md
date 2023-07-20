@@ -86,6 +86,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Blackpenredpen https://www.youtube.com/user/blackpenredpen
 - AI and Games youtube channel https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
 - A.I. and Machine Learning in Unity, Sebastian Schuchmann youtube channel https://www.youtube.com/c/SebastianSchuchmannAI
+- CNN Explainer - https://poloclub.github.io/cnn-explainer/
 
 #### Example problems and online notes/refrences
 - Example Problems - http://www.exampleproblems.com/
