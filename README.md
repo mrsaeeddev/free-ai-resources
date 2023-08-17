@@ -268,6 +268,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
 
 ### 💼 AI JOB SITES:
+- AiJobsTracker (live aggregator of 300 AI company job boards) - https://aijobstracker.com/
 - DataYoshi - https://www.datayoshi.com/
 - AI Jobs - https://aijobs.com/
 - AI-Jobs - https://ai-jobs.net/
