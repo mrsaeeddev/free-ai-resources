@@ -275,6 +275,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Kaggle Jobs - https://www.kaggle.com/jobs
 - Remote AI/ML Jobs: https://www.remoteaijobs.com/
 - AI Jobs Board: https://aijobsboard.com/
+- DataScienceJobs - https://datasciencejobs.com/
 
 ### 📝 AI BLOGS:
 - Towards Data Science: https://towardsdatascience.com/
