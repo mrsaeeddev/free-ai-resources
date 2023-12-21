@@ -87,7 +87,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - AI and Games youtube channel https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
 - A.I. and Machine Learning in Unity, Sebastian Schuchmann youtube channel https://www.youtube.com/c/SebastianSchuchmannAI
 
-#### Example problems and online notes/refrences
+#### Example problems and online notes/refrences/
 - Example Problems - http://www.exampleproblems.com/
 - Interact math - http://www.interactmath.com/
 - Pauls online Math notes - http://tutorial.math.lamar.edu/
